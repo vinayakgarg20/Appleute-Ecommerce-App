@@ -15,5 +15,7 @@ $ npm run dev (for both client and server side)
 
 ENV
 $ PORT=
+
 $ DB_URI=
+
 $ JWT_SECRET=
